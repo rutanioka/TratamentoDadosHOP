@@ -8,4 +8,5 @@ Utilizando o Orquestrador de Tarefas Apache HOP, excelente ferramenta de engenha
 As pipelines realizam a Transformação de Sttring, substituição de NULL, agregação de Range, Ordenação e Operações de Merge para Workflow enviar um email ao final da tarefa a cada atualização na base de dados.
 
 Seguem algumas prints de tela da operação.
+![pipeline1](https://github.com/rutanioka/TratamentoDadosHOP/assets/87711124/3345eb9a-2b25-4cf5-8872-1258661761ea)
 
